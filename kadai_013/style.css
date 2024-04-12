@@ -64,7 +64,11 @@ PC用のスタイル
   }
 
 }
+/*==============
+SP用のスタイル
+=============*/
 @media screen and (max-width: 767px) {
+  /*====== 追加のcss ======*/
   body {
     min-width: 375px;
     margin: 0;
